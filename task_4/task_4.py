@@ -1,5 +1,5 @@
 create - insert_row  # наполнение файла построчно
-pointer - line_num  # номер текущей строки в редакторе
+pointer - row_index  # номер текущей строки в редакторе
 list_of_lists - two_d_array  # двумерная матрица
 cur_str - current_edit_row  # текущая строка в редакторе
 workers_list - workers  # список всех сотрудников
